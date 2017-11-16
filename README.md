@@ -1,0 +1,2 @@
+# byteutil
+golang byte utility
