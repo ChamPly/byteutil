@@ -5,7 +5,7 @@ byteutil is golang byte utility
 ## Quick Start
 ##### Install
 ``` bash
-$ go get github.com/ChamPly/byteutil
+$ go get github.com/champly/byteutil
 ```
 
 #### Slice Byte to String
